@@ -1,7 +1,6 @@
-# ChuzaJS 🐤
-
 <div align="center">
-  <img src="./chuzaJs.png" alt="ChuzaJS Logo" width="200" />
+  <h1>ChuzaJS 🐤</h1>
+  <img src="./chuzaJs.png" alt="ChuzaJS Logo" width="400" />
   <p><strong>A minimal, pure, and educational web server library for Node.js</strong></p>
 </div>
 
