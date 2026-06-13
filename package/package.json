@@ -1,0 +1,16 @@
+{
+  "name": "chuza-js",
+  "version": "1.0.0",
+  "description": "A minimal, pure server library for educational purposes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "regexparam": "^3.0.0"
+  }
+}

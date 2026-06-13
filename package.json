@@ -1,0 +1,8 @@
+{
+  "name": "chuza-js-workspace",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "regexparam": "^3.0.0"
+  }
+}
